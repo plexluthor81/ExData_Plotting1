@@ -1,4 +1,4 @@
-]My plots, for easier peer-review.](plot_comparison.md)
+[My plots, for easier peer-review.](plot_comparison.md)
 
 ## Introduction
 

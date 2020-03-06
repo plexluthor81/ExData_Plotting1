@@ -1,3 +1,5 @@
+]My plots, for easier peer-review.](plot_comparison.md)
+
 ## Introduction
 
 This assignment uses data from
